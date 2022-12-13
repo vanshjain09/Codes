@@ -1,0 +1,2 @@
+This is static file and accessible to everyone
+likw if we want to provide something downloadable we put in static

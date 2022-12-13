@@ -1,0 +1,6 @@
+poly means //  many forms
+morphism means // representing
+
+two type---->>>>
+> COMPILE TIME/ Static type: e.g. function overloading
+> RUN TIME/dynamic type : e.g. method overriding

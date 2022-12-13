@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datatype",
+            "request": "launch",
+            "mainClass": "Datatype",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_list",
+            "request": "launch",
+            "mainClass": "array_list",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch assignment_functions",
+            "request": "launch",
+            "mainClass": "assignment_functions",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch exersice_1",
+            "request": "launch",
+            "mainClass": "exersice_1",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch functions",
+            "request": "launch",
+            "mainClass": "functions",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch functions_2Shaddowing",
+            "request": "launch",
+            "mainClass": "functions_2Shaddowing",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_no",
+            "request": "launch",
+            "mainClass": "prime_no",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch questionsBinarySearch",
+            "request": "launch",
+            "mainClass": "questionsBinarySearch",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch quiz",
+            "request": "launch",
+            "mainClass": "quiz",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut1_hello",
+            "request": "launch",
+            "mainClass": "tut1_hello",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut2_practice",
+            "request": "launch",
+            "mainClass": "tut2_practice",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut2_vaiables_input",
+            "request": "launch",
+            "mainClass": "tut2_vaiables_input",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut3_conditional",
+            "request": "launch",
+            "mainClass": "tut3_conditional",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut3_practice",
+            "request": "launch",
+            "mainClass": "tut3_practice",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut4_loops",
+            "request": "launch",
+            "mainClass": "tut4_loops",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut4_practice",
+            "request": "launch",
+            "mainClass": "tut4_practice",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut5_finctions",
+            "request": "launch",
+            "mainClass": "tut5_finctions",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut6_arrays",
+            "request": "launch",
+            "mainClass": "tut6_arrays",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut6_practice",
+            "request": "launch",
+            "mainClass": "tut6_practice",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut7_2d_arrays",
+            "request": "launch",
+            "mainClass": "tut7_2d_arrays",
+            "projectName": "vansh.java_c0e80004"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut7_practice",
+            "request": "launch",
+            "mainClass": "tut7_practice",
+            "projectName": "vansh.java_c0e80004"
+        }
+    ]
+}

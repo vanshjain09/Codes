@@ -1,0 +1,9 @@
+Wrapping up details of data members and methods in a class is called Encapsulation
+Encapsulation based on internal working
+this is process of containing the info
+
+                        VS
+
+Abstraction is only showing of neccesery data and functions
+based on outer working
+process of gaining the info

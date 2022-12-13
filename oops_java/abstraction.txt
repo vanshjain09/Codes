@@ -1,0 +1,6 @@
+We can't make final abstract class
+b/c final class are not mean to change
+and abstract class are mean to change
+
+
+** We not allow to make objrct of abstract class b/c if functions are empty of abstract class what does objects call
